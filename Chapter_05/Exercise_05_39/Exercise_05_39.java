@@ -25,7 +25,7 @@ public class Exercise_05_39 {
         while (totalSalary < 30000){
             if (sales < 5000) commision = sales*0.08 + baseSalary;
             else if (sales < 10000) commision = 5000 * 0.08 + (sales-5000)*0.1;
-            else commision = 5000*0.08 + 10000*0.1 + (sales-10000)*0.12;
+            else commision = 5000*0.08 + 5000*0.1 + (sales-10000)*0.12;
             totalSalary = baseSalary + commision;
             sales++;
             
