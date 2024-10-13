@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="262px" preserveAspectRatio="none" style="width:328px;height:262px;background:#FFFFFF;" version="1.1" viewBox="0 0 328 262" width="328px" zoomAndPan="magnify">
+    <defs/>
+    <g>
+        <!--class MyStringBuilder1-->
+        <g id="elem_MyStringBuilder1">
+            <rect codeLine="2" fill="#F1F1F1" height="241.7031" id="MyStringBuilder1" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="307" x="7" y="7"/>
+            <ellipse cx="102.75" cy="23" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M105.5156,18.875 Q105.6719,18.6563 105.8594,18.5469 Q106.0469,18.4375 106.2656,18.4375 Q106.6406,18.4375 106.875,18.7031 Q107.1094,18.9531 107.1094,19.5625 L107.1094,21.0156 Q107.1094,21.625 106.875,21.8906 Q106.6406,22.1563 106.2656,22.1563 Q105.9219,22.1563 105.7188,21.9531 Q105.5156,21.7656 105.4063,21.25 Q105.3594,20.8906 105.1719,20.7031 Q104.8438,20.3281 104.2344,20.1094 Q103.625,19.8906 103,19.8906 Q102.2344,19.8906 101.5938,20.2188 Q100.9688,20.5469 100.4688,21.2969 Q99.9844,22.0469 99.9844,23.0781 L99.9844,24.1719 Q99.9844,25.4063 100.875,26.2344 Q101.7656,27.0469 103.3594,27.0469 Q104.2969,27.0469 104.9531,26.7969 Q105.3438,26.6406 105.7656,26.2031 Q106.0313,25.9375 106.1719,25.8594 Q106.3281,25.7813 106.5313,25.7813 Q106.8594,25.7813 107.1094,26.0469 Q107.375,26.2969 107.375,26.6406 Q107.375,26.9844 107.0313,27.3906 Q106.5313,27.9688 105.7344,28.2969 Q104.6563,28.75 103.3594,28.75 Q101.8438,28.75 100.6406,28.125 Q99.6563,27.625 98.9688,26.5625 Q98.2813,25.4844 98.2813,24.2031 L98.2813,23.0469 Q98.2813,21.7188 98.8906,20.5781 Q99.5156,19.4219 100.6094,18.8125 Q101.7031,18.1875 102.9375,18.1875 Q103.6719,18.1875 104.3125,18.3594 Q104.9688,18.5156 105.5156,18.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="107" x="123.25" y="28.7285">MyStringBuilder1</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="313" y1="39" y2="39"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="48" x="13" y="57.5332">-size:int</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="76" x="13" y="75.1426">-capacity:int</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="82" x="13" y="92.752">-buffer:char[]</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="313" y1="99.8281" y2="99.8281"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="173" x="13" y="118.3613">+MyStringBuilder1(s:String)</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="295" x="13" y="135.9707">+append(s:MyStringBuilder1):MyStringBuilder1</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="199" x="13" y="153.5801">+append(i:int):MyStringBuilder1</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="76" x="13" y="171.1895">+length():int</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="143" x="13" y="188.7988">+charAt(index:int):char</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="212" x="13" y="206.4082">+toLowerCase():MyStringBuilder1</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="294" x="13" y="224.0176">+subString(begin:int, end:int):MyStringBuilder1</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="108" x="13" y="241.627">+toString():String</text>
+        </g>
+        <!--SRC=[TOyn3u8m48Nt_egE9TL4LpPaCj69qJYKSi15BAIzHj7utwL27137-zvxz-xS1KsdhBfotIZd4YABkIVOwzPa-02-OMaG-B7F1ibKEuzD0NRBdspj1aECXjXQgqvff7wSSb-MO6DTAtiwCpcF2XUF869ITHsOOY1pK_H3lcOCBKjw0wQYMaIVAsIeJqYWAU0-9W9Xajf3UmERAWTYQOlp-OX43XMQ45tneVTVAxMJFPhUOgyt]-->
+    </g>
+</svg>

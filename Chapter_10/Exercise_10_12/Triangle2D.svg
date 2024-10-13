@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="245px" preserveAspectRatio="none" style="width:347px;height:245px;background:#FFFFFF;" version="1.1" viewBox="0 0 347 245" width="347px" zoomAndPan="magnify">
+    <defs/>
+    <g>
+        <!--class Tringle2D-->
+        <g id="elem_Tringle2D">
+            <rect codeLine="2" fill="#F1F1F1" height="224.0938" id="Tringle2D" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="326" x="7" y="7"/>
+            <ellipse cx="134.75" cy="23" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M137.5156,18.875 Q137.6719,18.6563 137.8594,18.5469 Q138.0469,18.4375 138.2656,18.4375 Q138.6406,18.4375 138.875,18.7031 Q139.1094,18.9531 139.1094,19.5625 L139.1094,21.0156 Q139.1094,21.625 138.875,21.8906 Q138.6406,22.1563 138.2656,22.1563 Q137.9219,22.1563 137.7188,21.9531 Q137.5156,21.7656 137.4063,21.25 Q137.3594,20.8906 137.1719,20.7031 Q136.8438,20.3281 136.2344,20.1094 Q135.625,19.8906 135,19.8906 Q134.2344,19.8906 133.5938,20.2188 Q132.9688,20.5469 132.4688,21.2969 Q131.9844,22.0469 131.9844,23.0781 L131.9844,24.1719 Q131.9844,25.4063 132.875,26.2344 Q133.7656,27.0469 135.3594,27.0469 Q136.2969,27.0469 136.9531,26.7969 Q137.3438,26.6406 137.7656,26.2031 Q138.0313,25.9375 138.1719,25.8594 Q138.3281,25.7813 138.5313,25.7813 Q138.8594,25.7813 139.1094,26.0469 Q139.375,26.2969 139.375,26.6406 Q139.375,26.9844 139.0313,27.3906 Q138.5313,27.9688 137.7344,28.2969 Q136.6563,28.75 135.3594,28.75 Q133.8438,28.75 132.6406,28.125 Q131.6563,27.625 130.9688,26.5625 Q130.2813,25.4844 130.2813,24.2031 L130.2813,23.0469 Q130.2813,21.7188 130.8906,20.5781 Q131.5156,19.4219 132.6094,18.8125 Q133.7031,18.1875 134.9375,18.1875 Q135.6719,18.1875 136.3125,18.3594 Q136.9688,18.5156 137.5156,18.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="155.25" y="28.7285">Tringle2D</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="332" y1="39" y2="39"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="13" y="57.5332">-p1: MyPoint</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="13" y="75.1426">-p2: MyPoint</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="13" y="92.752">-p3: MyPoint</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="332" y1="99.8281" y2="99.8281"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="88" x="13" y="118.3613">+Triangle2D()</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="314" x="13" y="135.9707">+Triangle2D(p1:MyPoint, p2:MyPoint, p3:MyPoint)</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="119" x="13" y="153.5801">+getArea(): double</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="150" x="13" y="171.1895">+getPerimeter(): double</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="188" x="13" y="188.7988">+contains(p:MyPoint):boolean</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="196" x="13" y="206.4082">+contains(t:Triangle2D):boolan</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="197" x="13" y="224.0176">+overlaps(t:Triangle2D):boolan</text>
+        </g>
+        <!--SRC=[TOun2i9044Nxd6BB11KqwROBsbW80Rt090vXSDrTPYU2YdTtOzJ4mcx-V__1X1DP3mndrHW8eHHXgZl1RUFidcwebicw1-h0P5k3-KRTauLVQRMxLewin91FGp66MNHWaDBi9qN_FPghg8ztyRdZlaKf6I7Dj3gwhZRugYfaEgCWJ_luh03PaFglhsld38ATGD7Z2mFliRiW6_1_y2Dv0W00]-->
+    </g>
+</svg>

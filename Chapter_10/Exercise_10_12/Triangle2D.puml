@@ -1,0 +1,16 @@
+@startuml
+skinparam classAttributeIconSize 0
+Class Tringle2D {
+-p1: MyPoint
+-p2: MyPoint
+-p3: MyPoint
++Triangle2D()
++Triangle2D(p1:MyPoint, p2:MyPoint, p3:MyPoint)
++getArea(): double
++getPerimeter(): double
++contains(p:MyPoint):boolean
++contains(t:Triangle2D):boolan
++overlaps(t:Triangle2D):boolan
+}
+
+@enduml

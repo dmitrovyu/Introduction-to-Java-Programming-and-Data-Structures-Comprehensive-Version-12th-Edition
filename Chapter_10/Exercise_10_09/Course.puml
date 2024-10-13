@@ -1,0 +1,16 @@
+@startuml
+skinparam classAttributeIconSize 0
+class Course{
+-courseName : String
+-students : String[100]
+-numberOfStudents : int
++Course(courseName : String)
++addStudent(student : String)
++getStudents() : String[]
++getNumberOfStudents() : int
++getCourseName() : String
++dropStudent(String : student)
+-resizeArrayOfStudents()
++clear()
+}
+@enduml

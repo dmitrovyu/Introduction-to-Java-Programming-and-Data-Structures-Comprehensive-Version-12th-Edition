@@ -1,0 +1,25 @@
+@startuml
+skinparam classAttributeIconSize 0
+class Tax {
+-fillingStatus : int                                 
++{static} SINGLE_FILER: int                          
++{static}MARRIED_JOINTLY_OR_QUALIFYING_WIDOW-ER: int 
++{static}MARRIED_SEPARATELY: int                     
++{static}HEAD_OF_HOUSEHOLD: int                      
+-breckets : int[][]                                  
+-rates : double[]                                    
+-taxableIncome : double                              
++Tax()                                               
++Tax(filingStatus: int, brackets: int[][],           
+rates: double[], taxableIncome: double)              
++getFillingStatus() : int                            
++setFillingStatus(status : int)                      
++getBrackets() : int[][]                             
++setBarckets(brackets : int[][])                     
++getRates() : double[]                               
++setRates(rates : double[][])                        
++getTaxableIncome() : double                         
++setTaxableIncoime(taxableIncome : double)           
++getTax()        
+}                     
+@enduml

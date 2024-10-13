@@ -1,0 +1,24 @@
+@startuml
+skinparam classAttributeIconSize 0
+class MyRectangle2D{
+-x: double                                                          
+ -y: double                                                          
+ -width: double                                                      
+ -height: double                                                     
+ +MyRectangle2D()                                                    
+ +MyRectangle2D(x: double, y: double, width: double, height: double) 
+ +setX(x: double )                                                   
+ +setY(y: double)                                                    
+ +getX(): double                                                     
+ +getY(): double                                                     
+ +setHeight(heigth: double)                                          
+ +setWidth(width: double)                                            
+ +getHeight(): double                                                
+ +getWidth(): double                                                 
+ +getArea(): double                                                  
+ +getPermeter(): double                                              
+ +contains(r: MyRectangle2D)                                         
+ +contains(x: double, y: double)                                     
+ +overlaps(r: MyRectangle2D)             
+}
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+skinparam classAttributeIconSize 0
+class Circle2D{
+-x:double
+-y:double
+-radius:double
++Circle2D()
++Circle2D(x:double,y:double,radius:double)
++getX():double
++getY():double
++getRadius():double
++getArea():double
++getPerimeter():double
++contains(x:int, y:int):boolean
++contains(circle:Circle2D):boolean
++overlaps(circle:Circle2D):boolean
+}
+@enduml

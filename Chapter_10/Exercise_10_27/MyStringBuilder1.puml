@@ -1,0 +1,16 @@
+@startuml
+skinparam classAttributeIconSize 0
+Class MyStringBuilder1 {
+-size:int
+-capacity:int
+-buffer:char[]
++MyStringBuilder1(s:String)
++append(s:MyStringBuilder1):MyStringBuilder1
++append(i:int):MyStringBuilder1
++length():int
++charAt(index:int):char
++toLowerCase():MyStringBuilder1
++subString(begin:int, end:int):MyStringBuilder1
++toString():String
+}
+@enduml

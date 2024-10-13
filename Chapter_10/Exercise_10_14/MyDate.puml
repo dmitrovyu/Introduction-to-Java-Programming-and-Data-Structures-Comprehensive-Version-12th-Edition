@@ -1,0 +1,16 @@
+@startuml
+skinparam classAttributeIconSize 0
+Class MyDAte {
+-day:int
+-month:int
+-year:int
++MyDate()
++MyDate(elapsedTime:long)
++MyDate(year: int, month: int, day: int) 
++getYear(): int                          
++getMonth(): int                         
++getDay(): int                           
++setDate(elapsedTime: long)        
+
+}
+@enduml

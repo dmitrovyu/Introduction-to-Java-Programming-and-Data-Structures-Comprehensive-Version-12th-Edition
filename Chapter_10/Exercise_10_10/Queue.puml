@@ -1,0 +1,12 @@
+@startuml
+skinparam classAttributeIconSize 0
+Class Queue {
+-elements : int[]
+-size : int
++Queue()
++enqueue(v : int)
++dequeue() : int
++empty() : boolean
++getSize() : int
+}
+@enduml
