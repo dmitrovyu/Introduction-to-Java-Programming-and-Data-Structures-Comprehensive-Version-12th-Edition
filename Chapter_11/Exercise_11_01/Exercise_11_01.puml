@@ -1,0 +1,30 @@
+@startuml
+class GeometricObject{
+-color:String
+-filled:boolean
+-dateCreated:Date
+#GeometricObject()
+#GeometricObject(color:String,filled:boolean)
++getColor():String
++setColor(color:String)
++isFilled():boolean
++setFilled(filled:boolean)
++getDateCreated():Date
++toString():String
+{abstract} +getArea():double
+{abstract} +getPerimeter():double
+}
+class Triangle extends GeometricObject{
+-side1: double
+-side2: double
+-side3: double
++Triangle()
++Triangle(side1:double,side2:double,side3:double)
++getArea():double
++getPerimeter():double
++toString(): String
++getSide1(): double
++getSide2(): double
++getSide3(): double
+}
+@enduml

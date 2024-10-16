@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="592px" preserveAspectRatio="none" style="width:353px;height:592px;background:#FFFFFF;" version="1.1" viewBox="0 0 353 592" width="353px" zoomAndPan="magnify">
+    <defs/>
+    <g>
+        <!--class GeometricObject-->
+        <g id="elem_GeometricObject">
+            <rect codeLine="1" fill="#F1F1F1" height="276.9219" id="GeometricObject" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="302" x="25.5" y="7"/>
+            <ellipse cx="119.25" cy="23" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M122.0156,18.875 Q122.1719,18.6563 122.3594,18.5469 Q122.5469,18.4375 122.7656,18.4375 Q123.1406,18.4375 123.375,18.7031 Q123.6094,18.9531 123.6094,19.5625 L123.6094,21.0156 Q123.6094,21.625 123.375,21.8906 Q123.1406,22.1563 122.7656,22.1563 Q122.4219,22.1563 122.2188,21.9531 Q122.0156,21.7656 121.9063,21.25 Q121.8594,20.8906 121.6719,20.7031 Q121.3438,20.3281 120.7344,20.1094 Q120.125,19.8906 119.5,19.8906 Q118.7344,19.8906 118.0938,20.2188 Q117.4688,20.5469 116.9688,21.2969 Q116.4844,22.0469 116.4844,23.0781 L116.4844,24.1719 Q116.4844,25.4063 117.375,26.2344 Q118.2656,27.0469 119.8594,27.0469 Q120.7969,27.0469 121.4531,26.7969 Q121.8438,26.6406 122.2656,26.2031 Q122.5313,25.9375 122.6719,25.8594 Q122.8281,25.7813 123.0313,25.7813 Q123.3594,25.7813 123.6094,26.0469 Q123.875,26.2969 123.875,26.6406 Q123.875,26.9844 123.5313,27.3906 Q123.0313,27.9688 122.2344,28.2969 Q121.1563,28.75 119.8594,28.75 Q118.3438,28.75 117.1406,28.125 Q116.1563,27.625 115.4688,26.5625 Q114.7813,25.4844 114.7813,24.2031 L114.7813,23.0469 Q114.7813,21.7188 115.3906,20.5781 Q116.0156,19.4219 117.1094,18.8125 Q118.2031,18.1875 119.4375,18.1875 Q120.1719,18.1875 120.8125,18.3594 Q121.4688,18.5156 122.0156,18.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="106" x="139.75" y="28.7285">GeometricObject</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="26.5" x2="326.5" y1="39" y2="39"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="33.5" y="50.3047"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="72" x="45.5" y="57.5332">color:String</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="33.5" y="67.9141"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="45.5" y="75.1426">filled:boolean</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="33.5" y="85.5234"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="113" x="45.5" y="92.752">dateCreated:Date</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="26.5" x2="326.5" y1="99.8281" y2="99.8281"/>
+            <polygon fill="#FFFF44" points="36.5,109.1328,40.5,113.1328,36.5,117.1328,32.5,113.1328" style="stroke:#B38D22;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="116" x="45.5" y="118.3613">GeometricObject()</text>
+            <polygon fill="#FFFF44" points="36.5,126.7422,40.5,130.7422,36.5,134.7422,32.5,130.7422" style="stroke:#B38D22;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="276" x="45.5" y="135.9707">GeometricObject(color:String,filled:boolean)</text>
+            <ellipse cx="36.5" cy="149.3516" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="105" x="45.5" y="153.5801">getColor():String</text>
+            <ellipse cx="36.5" cy="166.9609" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="135" x="45.5" y="171.1895">setColor(color:String)</text>
+            <ellipse cx="36.5" cy="184.5703" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="109" x="45.5" y="188.7988">isFilled():boolean</text>
+            <ellipse cx="36.5" cy="202.1797" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="147" x="45.5" y="206.4082">setFilled(filled:boolean)</text>
+            <ellipse cx="36.5" cy="219.7891" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="145" x="45.5" y="224.0176">getDateCreated():Date</text>
+            <ellipse cx="36.5" cy="237.3984" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="100" x="45.5" y="241.627">toString():String</text>
+            <ellipse cx="36.5" cy="255.0078" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="107" x="45.5" y="259.2363">getArea():double</text>
+            <ellipse cx="36.5" cy="272.6172" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="138" x="45.5" y="276.8457">getPerimeter():double</text>
+        </g>
+        <!--class Triangle-->
+        <g id="elem_Triangle">
+            <rect codeLine="16" fill="#F1F1F1" height="241.7031" id="Triangle" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="339" x="7" y="344"/>
+            <ellipse cx="146.25" cy="360" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M149.0156,355.875 Q149.1719,355.6563 149.3594,355.5469 Q149.5469,355.4375 149.7656,355.4375 Q150.1406,355.4375 150.375,355.7031 Q150.6094,355.9531 150.6094,356.5625 L150.6094,358.0156 Q150.6094,358.625 150.375,358.8906 Q150.1406,359.1563 149.7656,359.1563 Q149.4219,359.1563 149.2188,358.9531 Q149.0156,358.7656 148.9063,358.25 Q148.8594,357.8906 148.6719,357.7031 Q148.3438,357.3281 147.7344,357.1094 Q147.125,356.8906 146.5,356.8906 Q145.7344,356.8906 145.0938,357.2188 Q144.4688,357.5469 143.9688,358.2969 Q143.4844,359.0469 143.4844,360.0781 L143.4844,361.1719 Q143.4844,362.4063 144.375,363.2344 Q145.2656,364.0469 146.8594,364.0469 Q147.7969,364.0469 148.4531,363.7969 Q148.8438,363.6406 149.2656,363.2031 Q149.5313,362.9375 149.6719,362.8594 Q149.8281,362.7813 150.0313,362.7813 Q150.3594,362.7813 150.6094,363.0469 Q150.875,363.2969 150.875,363.6406 Q150.875,363.9844 150.5313,364.3906 Q150.0313,364.9688 149.2344,365.2969 Q148.1563,365.75 146.8594,365.75 Q145.3438,365.75 144.1406,365.125 Q143.1563,364.625 142.4688,363.5625 Q141.7813,362.4844 141.7813,361.2031 L141.7813,360.0469 Q141.7813,358.7188 142.3906,357.5781 Q143.0156,356.4219 144.1094,355.8125 Q145.2031,355.1875 146.4375,355.1875 Q147.1719,355.1875 147.8125,355.3594 Q148.4688,355.5156 149.0156,355.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="52" x="166.75" y="365.7285">Triangle</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="345" y1="376" y2="376"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="387.3047"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="85" x="27" y="394.5332">side1: double</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="404.9141"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="85" x="27" y="412.1426">side2: double</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="422.5234"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="85" x="27" y="429.752">side3: double</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="345" y1="436.8281" y2="436.8281"/>
+            <ellipse cx="18" cy="451.1328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="27" y="455.3613">Triangle()</text>
+            <ellipse cx="18" cy="468.7422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="313" x="27" y="472.9707">Triangle(side1:double,side2:double,side3:double)</text>
+            <ellipse cx="18" cy="486.3516" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="107" x="27" y="490.5801">getArea():double</text>
+            <ellipse cx="18" cy="503.9609" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="138" x="27" y="508.1895">getPerimeter():double</text>
+            <ellipse cx="18" cy="521.5703" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="104" x="27" y="525.7988">toString(): String</text>
+            <ellipse cx="18" cy="539.1797" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="117" x="27" y="543.4082">getSide1(): double</text>
+            <ellipse cx="18" cy="556.7891" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="117" x="27" y="561.0176">getSide2(): double</text>
+            <ellipse cx="18" cy="574.3984" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="117" x="27" y="578.627">getSide3(): double</text>
+        </g>
+        <!--reverse link GeometricObject to Triangle-->
+        <g id="link_GeometricObject_Triangle">
+            <path d="M176.5,302.37 C176.5,322.12 176.5,324.31 176.5,343.68 " fill="none" id="GeometricObject-backto-Triangle" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="176.5,284.37,170.5,302.37,182.5,302.37,176.5,284.37" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--SRC=[TL7DYiCW6Bpx5C9U4j8SDhdbjhIqnosqBs3qQt2n4TI5GicxxsUCZKcp5t76cVb-v8fPIq-Wx-2CvD_j3t3t92NNIflcWbpVaV8cbGBHj5ehO3qf1NEmDu2dQ0vuaezLGfQ_KsdaRfcOaw83j_U2B8zL2nkfr8bIQO-Z6wMn8w-ToAtamzmlciQE2wT3u5pmoLhh3EDkeDxqXGPy5FgtLR1-F8EHE1sOMJ4GFYxpQYJhEmKK7WvwiRLTAmLyDdGoZh1Qmle5YvY7Evtl8I58Ti6VW7e2OVhb8Fzqd-w3nXz0wSKNybnYzrormTK9D_m1]-->
+    </g>
+</svg>

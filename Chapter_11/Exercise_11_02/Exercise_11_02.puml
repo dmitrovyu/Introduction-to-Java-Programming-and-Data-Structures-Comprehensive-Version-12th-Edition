@@ -1,0 +1,63 @@
+@startuml
+class Person {
+-name : String
+-address : String
+-phone : String
+-email : String
++Person()
++Person(name:String,address:String,phone:String,email:String)
++getName():String
++getAddress():String
++getPhone():String
++getEmail():String
++setName(name:String)
++setAddress(address:String)
++setPhone(phone:String)
++setEmail(email:String)
++^toString():String
+}
+class Student extends Person{
+-status: int
+{static} +FRESHMAN : int = 1
+{static} +JUNIOR : int = 2
+{static} +SOPHOMORE : int =3
+{static} +SENIOR : int = 4
++Student(name:String, address:String, phone:String, email:String, status:int)
++getStatus():int
++setStatus(status:int)
++^toString():String
+}
+class Employee extends Person {
+-office: String
+-salary: double
+-dateHired: MyDate
++Student(name:String,address:String,phone:String,email:String,
+ office:String, salary:double,dateHired: MyDate)
++getOffice(): String
++getSalary: double
++getDateHired(): MyDate
++setOffice(office: String)
++setSalary(salary:double)
++setDateHired(dateHired:MyDate)
++^toString():String
+}
+class Faculty extends Employee {
+-officeHours: String
+-rank: String
++Staff(name:String,address:String,phone:String,email:String,
+ office:String, salary:double,dateHired: MyDate, officeHours: String, rank: String)
++getOfficeHours():String
++getRank(): String
++setOfficeHours(officeHours:String)
++setRank(rank:String)
++^toString():String
+}
+class Staff extends Employee {
+-title: String
++Staff(name:String,address:String,phone:String,email:String,
+ office:String, salary:double,dateHired: MyDate, title: String)
++getRank():String
++setRank(rank:String)
++^toString():String
+}
+@enduml

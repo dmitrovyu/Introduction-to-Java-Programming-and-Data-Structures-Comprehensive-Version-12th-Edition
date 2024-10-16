@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="911px" preserveAspectRatio="none" style="width:1203px;height:911px;background:#FFFFFF;" version="1.1" viewBox="0 0 1203 911" width="1203px" zoomAndPan="magnify">
+    <defs/>
+    <g>
+        <!--class Person-->
+        <g id="elem_Person">
+            <rect codeLine="1" fill="#F1F1F1" height="312.1406" id="Person" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="416" x="293.5" y="7"/>
+            <ellipse cx="474.75" cy="23" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M477.5156,18.875 Q477.6719,18.6563 477.8594,18.5469 Q478.0469,18.4375 478.2656,18.4375 Q478.6406,18.4375 478.875,18.7031 Q479.1094,18.9531 479.1094,19.5625 L479.1094,21.0156 Q479.1094,21.625 478.875,21.8906 Q478.6406,22.1563 478.2656,22.1563 Q477.9219,22.1563 477.7188,21.9531 Q477.5156,21.7656 477.4063,21.25 Q477.3594,20.8906 477.1719,20.7031 Q476.8438,20.3281 476.2344,20.1094 Q475.625,19.8906 475,19.8906 Q474.2344,19.8906 473.5938,20.2188 Q472.9688,20.5469 472.4688,21.2969 Q471.9844,22.0469 471.9844,23.0781 L471.9844,24.1719 Q471.9844,25.4063 472.875,26.2344 Q473.7656,27.0469 475.3594,27.0469 Q476.2969,27.0469 476.9531,26.7969 Q477.3438,26.6406 477.7656,26.2031 Q478.0313,25.9375 478.1719,25.8594 Q478.3281,25.7813 478.5313,25.7813 Q478.8594,25.7813 479.1094,26.0469 Q479.375,26.2969 479.375,26.6406 Q479.375,26.9844 479.0313,27.3906 Q478.5313,27.9688 477.7344,28.2969 Q476.6563,28.75 475.3594,28.75 Q473.8438,28.75 472.6406,28.125 Q471.6563,27.625 470.9688,26.5625 Q470.2813,25.4844 470.2813,24.2031 L470.2813,23.0469 Q470.2813,21.7188 470.8906,20.5781 Q471.5156,19.4219 472.6094,18.8125 Q473.7031,18.1875 474.9375,18.1875 Q475.6719,18.1875 476.3125,18.3594 Q476.9688,18.5156 477.5156,18.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="45" x="495.25" y="28.7285">Person</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="294.5" x2="708.5" y1="39" y2="39"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="301.5" y="50.3047"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="313.5" y="57.5332">name : String</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="301.5" y="67.9141"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="100" x="313.5" y="75.1426">address : String</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="301.5" y="85.5234"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89" x="313.5" y="92.752">phone : String</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="301.5" y="103.1328"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="82" x="313.5" y="110.3613">email : String</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="294.5" x2="708.5" y1="117.4375" y2="117.4375"/>
+            <ellipse cx="304.5" cy="131.7422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="313.5" y="135.9707">Person()</text>
+            <ellipse cx="304.5" cy="149.3516" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="390" x="313.5" y="153.5801">Person(name:String,address:String,phone:String,email:String)</text>
+            <ellipse cx="304.5" cy="166.9609" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="107" x="313.5" y="171.1895">getName():String</text>
+            <ellipse cx="304.5" cy="184.5703" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="123" x="313.5" y="188.7988">getAddress():String</text>
+            <ellipse cx="304.5" cy="202.1797" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="112" x="313.5" y="206.4082">getPhone():String</text>
+            <ellipse cx="304.5" cy="219.7891" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="105" x="313.5" y="224.0176">getEmail():String</text>
+            <ellipse cx="304.5" cy="237.3984" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="141" x="313.5" y="241.627">setName(name:String)</text>
+            <ellipse cx="304.5" cy="255.0078" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="173" x="313.5" y="259.2363">setAddress(address:String)</text>
+            <ellipse cx="304.5" cy="272.6172" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="151" x="313.5" y="276.8457">setPhone(phone:String)</text>
+            <ellipse cx="304.5" cy="290.2266" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="137" x="313.5" y="294.4551">setEmail(email:String)</text>
+            <ellipse cx="304.5" cy="307.8359" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="105" x="313.5" y="312.0645">^toString():String</text>
+        </g>
+        <!--class Student-->
+        <g id="elem_Student">
+            <rect codeLine="18" fill="#F1F1F1" height="206.4844" id="Student" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="497" x="7" y="405.5"/>
+            <ellipse cx="226.75" cy="421.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M229.5156,417.375 Q229.6719,417.1563 229.8594,417.0469 Q230.0469,416.9375 230.2656,416.9375 Q230.6406,416.9375 230.875,417.2031 Q231.1094,417.4531 231.1094,418.0625 L231.1094,419.5156 Q231.1094,420.125 230.875,420.3906 Q230.6406,420.6563 230.2656,420.6563 Q229.9219,420.6563 229.7188,420.4531 Q229.5156,420.2656 229.4063,419.75 Q229.3594,419.3906 229.1719,419.2031 Q228.8438,418.8281 228.2344,418.6094 Q227.625,418.3906 227,418.3906 Q226.2344,418.3906 225.5938,418.7188 Q224.9688,419.0469 224.4688,419.7969 Q223.9844,420.5469 223.9844,421.5781 L223.9844,422.6719 Q223.9844,423.9063 224.875,424.7344 Q225.7656,425.5469 227.3594,425.5469 Q228.2969,425.5469 228.9531,425.2969 Q229.3438,425.1406 229.7656,424.7031 Q230.0313,424.4375 230.1719,424.3594 Q230.3281,424.2813 230.5313,424.2813 Q230.8594,424.2813 231.1094,424.5469 Q231.375,424.7969 231.375,425.1406 Q231.375,425.4844 231.0313,425.8906 Q230.5313,426.4688 229.7344,426.7969 Q228.6563,427.25 227.3594,427.25 Q225.8438,427.25 224.6406,426.625 Q223.6563,426.125 222.9688,425.0625 Q222.2813,423.9844 222.2813,422.7031 L222.2813,421.5469 Q222.2813,420.2188 222.8906,419.0781 Q223.5156,417.9219 224.6094,417.3125 Q225.7031,416.6875 226.9375,416.6875 Q227.6719,416.6875 228.3125,416.8594 Q228.9688,417.0156 229.5156,417.375 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="49" x="247.25" y="427.2285">Student</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="503" y1="437.5" y2="437.5"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="15" y="448.8047"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="61" x="27" y="456.0332">status: int</text>
+            <ellipse cx="18" cy="469.4141" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="126" x="27" y="473.6426">FRESHMAN : int = 1</text>
+            <ellipse cx="18" cy="487.0234" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="99" x="27" y="491.252">JUNIOR : int = 2</text>
+            <ellipse cx="18" cy="504.6328" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="137" x="27" y="508.8613">SOPHOMORE : int =3</text>
+            <ellipse cx="18" cy="522.2422" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="102" x="27" y="526.4707">SENIOR : int = 4</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="503" y1="533.5469" y2="533.5469"/>
+            <ellipse cx="18" cy="547.8516" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="471" x="27" y="552.0801">Student(name:String, address:String, phone:String, email:String, status:int)</text>
+            <ellipse cx="18" cy="565.4609" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89" x="27" y="569.6895">getStatus():int</text>
+            <ellipse cx="18" cy="583.0703" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="126" x="27" y="587.2988">setStatus(status:int)</text>
+            <ellipse cx="18" cy="600.6797" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="105" x="27" y="604.9082">^toString():String</text>
+        </g>
+        <!--class Employee-->
+        <g id="elem_Employee">
+            <rect codeLine="29" fill="#F1F1F1" height="259.3125" id="Employee" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="419" x="539" y="379"/>
+            <ellipse cx="713.25" cy="395" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M716.0156,390.875 Q716.1719,390.6563 716.3594,390.5469 Q716.5469,390.4375 716.7656,390.4375 Q717.1406,390.4375 717.375,390.7031 Q717.6094,390.9531 717.6094,391.5625 L717.6094,393.0156 Q717.6094,393.625 717.375,393.8906 Q717.1406,394.1563 716.7656,394.1563 Q716.4219,394.1563 716.2188,393.9531 Q716.0156,393.7656 715.9063,393.25 Q715.8594,392.8906 715.6719,392.7031 Q715.3438,392.3281 714.7344,392.1094 Q714.125,391.8906 713.5,391.8906 Q712.7344,391.8906 712.0938,392.2188 Q711.4688,392.5469 710.9688,393.2969 Q710.4844,394.0469 710.4844,395.0781 L710.4844,396.1719 Q710.4844,397.4063 711.375,398.2344 Q712.2656,399.0469 713.8594,399.0469 Q714.7969,399.0469 715.4531,398.7969 Q715.8438,398.6406 716.2656,398.2031 Q716.5313,397.9375 716.6719,397.8594 Q716.8281,397.7813 717.0313,397.7813 Q717.3594,397.7813 717.6094,398.0469 Q717.875,398.2969 717.875,398.6406 Q717.875,398.9844 717.5313,399.3906 Q717.0313,399.9688 716.2344,400.2969 Q715.1563,400.75 713.8594,400.75 Q712.3438,400.75 711.1406,400.125 Q710.1563,399.625 709.4688,398.5625 Q708.7813,397.4844 708.7813,396.2031 L708.7813,395.0469 Q708.7813,393.7188 709.3906,392.5781 Q710.0156,391.4219 711.1094,390.8125 Q712.2031,390.1875 713.4375,390.1875 Q714.1719,390.1875 714.8125,390.3594 Q715.4688,390.5156 716.0156,390.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="733.75" y="400.7285">Employee</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="540" x2="957" y1="411" y2="411"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="547" y="422.3047"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="559" y="429.5332">office: String</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="547" y="439.9141"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89" x="559" y="447.1426">salary: double</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="547" y="457.5234"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="117" x="559" y="464.752">dateHired: MyDate</text>
+            <ellipse cx="550" cy="478.1328" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="111" x="559" y="482.3613">getSalary: double</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="540" x2="957" y1="489.4375" y2="489.4375"/>
+            <ellipse cx="550" cy="503.7422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="393" x="559" y="507.9707">Student(name:String,address:String,phone:String,email:String,</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="294" x="559" y="525.5801">office:String, salary:double,dateHired: MyDate)</text>
+            <ellipse cx="550" cy="538.9609" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="112" x="559" y="543.1895">getOffice(): String</text>
+            <ellipse cx="550" cy="556.5703" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="149" x="559" y="560.7988">getDateHired(): MyDate</text>
+            <ellipse cx="550" cy="574.1797" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="145" x="559" y="578.4082">setOffice(office: String)</text>
+            <ellipse cx="550" cy="591.7891" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="154" x="559" y="596.0176">setSalary(salary:double)</text>
+            <ellipse cx="550" cy="609.3984" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="205" x="559" y="613.627">setDateHired(dateHired:MyDate)</text>
+            <ellipse cx="550" cy="627.0078" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="105" x="559" y="631.2363">^toString():String</text>
+        </g>
+        <!--class Faculty-->
+        <g id="elem_Faculty">
+            <rect codeLine="43" fill="#F1F1F1" height="206.4844" id="Faculty" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="525" x="237" y="698"/>
+            <ellipse cx="472.25" cy="714" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M475.0156,709.875 Q475.1719,709.6563 475.3594,709.5469 Q475.5469,709.4375 475.7656,709.4375 Q476.1406,709.4375 476.375,709.7031 Q476.6094,709.9531 476.6094,710.5625 L476.6094,712.0156 Q476.6094,712.625 476.375,712.8906 Q476.1406,713.1563 475.7656,713.1563 Q475.4219,713.1563 475.2188,712.9531 Q475.0156,712.7656 474.9063,712.25 Q474.8594,711.8906 474.6719,711.7031 Q474.3438,711.3281 473.7344,711.1094 Q473.125,710.8906 472.5,710.8906 Q471.7344,710.8906 471.0938,711.2188 Q470.4688,711.5469 469.9688,712.2969 Q469.4844,713.0469 469.4844,714.0781 L469.4844,715.1719 Q469.4844,716.4063 470.375,717.2344 Q471.2656,718.0469 472.8594,718.0469 Q473.7969,718.0469 474.4531,717.7969 Q474.8438,717.6406 475.2656,717.2031 Q475.5313,716.9375 475.6719,716.8594 Q475.8281,716.7813 476.0313,716.7813 Q476.3594,716.7813 476.6094,717.0469 Q476.875,717.2969 476.875,717.6406 Q476.875,717.9844 476.5313,718.3906 Q476.0313,718.9688 475.2344,719.2969 Q474.1563,719.75 472.8594,719.75 Q471.3438,719.75 470.1406,719.125 Q469.1563,718.625 468.4688,717.5625 Q467.7813,716.4844 467.7813,715.2031 L467.7813,714.0469 Q467.7813,712.7188 468.3906,711.5781 Q469.0156,710.4219 470.1094,709.8125 Q471.2031,709.1875 472.4375,709.1875 Q473.1719,709.1875 473.8125,709.3594 Q474.4688,709.5156 475.0156,709.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="46" x="492.75" y="719.7285">Faculty</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="238" x2="761" y1="730" y2="730"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="245" y="741.3047"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="116" x="257" y="748.5332">officeHours: String</text>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="245" y="758.9141"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="73" x="257" y="766.1426">rank: String</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="238" x2="761" y1="773.2188" y2="773.2188"/>
+            <ellipse cx="248" cy="787.5234" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="373" x="257" y="791.752">Staff(name:String,address:String,phone:String,email:String,</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="499" x="257" y="809.3613">office:String, salary:double,dateHired: MyDate, officeHours: String, rank: String)</text>
+            <ellipse cx="248" cy="822.7422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="145" x="257" y="826.9707">getOfficeHours():String</text>
+            <ellipse cx="248" cy="840.3516" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="108" x="257" y="844.5801">getRank(): String</text>
+            <ellipse cx="248" cy="857.9609" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="215" x="257" y="862.1895">setOfficeHours(officeHours:String)</text>
+            <ellipse cx="248" cy="875.5703" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="131" x="257" y="879.7988">setRank(rank:String)</text>
+            <ellipse cx="248" cy="893.1797" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="105" x="257" y="897.4082">^toString():String</text>
+        </g>
+        <!--class Staff-->
+        <g id="elem_Staff">
+            <rect codeLine="54" fill="#F1F1F1" height="153.6563" id="Staff" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="399" x="797" y="724"/>
+            <ellipse cx="977.75" cy="740" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/>
+            <path d="M980.5156,735.875 Q980.6719,735.6563 980.8594,735.5469 Q981.0469,735.4375 981.2656,735.4375 Q981.6406,735.4375 981.875,735.7031 Q982.1094,735.9531 982.1094,736.5625 L982.1094,738.0156 Q982.1094,738.625 981.875,738.8906 Q981.6406,739.1563 981.2656,739.1563 Q980.9219,739.1563 980.7188,738.9531 Q980.5156,738.7656 980.4063,738.25 Q980.3594,737.8906 980.1719,737.7031 Q979.8438,737.3281 979.2344,737.1094 Q978.625,736.8906 978,736.8906 Q977.2344,736.8906 976.5938,737.2188 Q975.9688,737.5469 975.4688,738.2969 Q974.9844,739.0469 974.9844,740.0781 L974.9844,741.1719 Q974.9844,742.4063 975.875,743.2344 Q976.7656,744.0469 978.3594,744.0469 Q979.2969,744.0469 979.9531,743.7969 Q980.3438,743.6406 980.7656,743.2031 Q981.0313,742.9375 981.1719,742.8594 Q981.3281,742.7813 981.5313,742.7813 Q981.8594,742.7813 982.1094,743.0469 Q982.375,743.2969 982.375,743.6406 Q982.375,743.9844 982.0313,744.3906 Q981.5313,744.9688 980.7344,745.2969 Q979.6563,745.75 978.3594,745.75 Q976.8438,745.75 975.6406,745.125 Q974.6563,744.625 973.9688,743.5625 Q973.2813,742.4844 973.2813,741.2031 L973.2813,740.0469 Q973.2813,738.7188 973.8906,737.5781 Q974.5156,736.4219 975.6094,735.8125 Q976.7031,735.1875 977.9375,735.1875 Q978.6719,735.1875 979.3125,735.3594 Q979.9688,735.5156 980.5156,735.875 Z " fill="#000000"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="29" x="998.25" y="745.7285">Staff</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="798" x2="1195" y1="756" y2="756"/>
+            <rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="805" y="767.3047"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="67" x="817" y="774.5332">title: String</text>
+            <line style="stroke:#181818;stroke-width:0.5;" x1="798" x2="1195" y1="781.6094" y2="781.6094"/>
+            <ellipse cx="808" cy="795.9141" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="373" x="817" y="800.1426">Staff(name:String,address:String,phone:String,email:String,</text>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="369" x="817" y="817.752">office:String, salary:double,dateHired: MyDate, title: String)</text>
+            <ellipse cx="808" cy="831.1328" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="104" x="817" y="835.3613">getRank():String</text>
+            <ellipse cx="808" cy="848.7422" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="131" x="817" y="852.9707">setRank(rank:String)</text>
+            <ellipse cx="808" cy="866.3516" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/>
+            <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="105" x="817" y="870.5801">^toString():String</text>
+        </g>
+        <!--reverse link Person to Student-->
+        <g id="link_Person_Student">
+            <path d="M379.8973,333.8026 C359.0073,362.9626 348.15,378.13 328.79,405.17 " fill="none" id="Person-backto-Student" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="390.38,319.17,375.0198,330.3084,384.7748,337.2968,390.38,319.17" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--reverse link Person to Employee-->
+        <g id="link_Person_Employee">
+            <path d="M623.5879,333.7845 C637.9679,353.7845 642.06,359.47 656.09,378.98 " fill="none" id="Person-backto-Employee" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="613.08,319.17,618.7163,337.2872,628.4594,330.2819,613.08,319.17" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--reverse link Employee to Faculty-->
+        <g id="link_Employee_Faculty">
+            <path d="M626.4858,651.8566 C609.4458,671.7366 603.76,678.37 587.3,697.57 " fill="none" id="Employee-backto-Faculty" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="638.2,638.19,621.9302,647.9519,631.0413,655.7614,638.2,638.19" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--reverse link Employee to Staff-->
+        <g id="link_Employee_Staff">
+            <path d="M870.0457,651.881 C895.0457,681.171 909.15,697.68 931.57,723.94 " fill="none" id="Employee-backto-Staff" style="stroke:#181818;stroke-width:1.0;"/>
+            <polygon fill="none" points="858.36,638.19,865.4821,655.7762,874.6094,647.9858,858.36,638.19" style="stroke:#181818;stroke-width:1.0;"/>
+        </g>
+        <!--SRC=[nLHBQuD04BxxA-OOYJdqSH9w2DHW2ub1wRMmrJMLcZMuArH2_dltuRxI479gRpklRxxvPhHi4QMmnJtj21o31K5x334Kh6_8BbYWgkenJx2UmsT7t0oyHqrhxRc2ceNc9H1Z5OqcE6rAB6r8eCdWrJlCDhno5iOQcNkMgjvtRWMAxqe4bkEY4vZ39PHU3UWJKp65wt9KVWL-HlUTTUfjkvw2KefRiA72X07-PfXKMcokDMM83JI6Xh3WA8ocFC5ybIT5kbvkG0RW2UwSuElRvYNBJUZU2HNPDitMMPxew8CRJBowns0-iVBM0sVx0Mz1u8uSmSIU0wfj5TBcuujnX4wJmykx8bEoFxJTYF6PJk8ekxfkIcnlZg8MzMCCLJTyj3XOL8ZXjEbn5SDwVER6vV5klRueWAcZcLKrLFsYN-sK09ciuOE1Suc5JrMuddMvIDLygQdtXrKdfr1c7WqLiM2MbI5rHUqLAeUMZKPiexwHE-s6dbhDUqI-x6HyjtNzD-96S85F12uVLt-PvlyDSfxgheNwkIwyAxeiasrk-ygv8XVbP0rhyJz9v_KENJKSCMuSz0S0]-->
+    </g>
+</svg>
